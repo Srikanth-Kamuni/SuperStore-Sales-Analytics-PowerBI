@@ -2,7 +2,7 @@
 
 Interactive Power BI dashboard built from an Excel order-line dataset to explore sales, profit, shipping, geography and product mix.
 
-![Dashboard preview] <img width="1205" height="674" alt="dashboard" src="https://github.com/user-attachments/assets/dbaadeb5-7ba1-41e0-a9e4-b929dbc53b53" />
+# [Dashboard preview] <img width="1205" height="674" alt="dashboard" src="https://github.com/user-attachments/assets/dbaadeb5-7ba1-41e0-a9e4-b929dbc53b53" />
 
 
 ## Business problem
